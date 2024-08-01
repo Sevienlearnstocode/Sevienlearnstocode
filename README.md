@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sevienlearnstocode
-- 👀 I’m interested in AI particularly classification, spatial regression modeling and drone programming
+- 👀 I’m interested in AI particularly classification and spatial regression modeling
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on Deep Learning
 - 📫 How to reach me sevienlearnstocode@gmail.com
